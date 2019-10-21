@@ -1,6 +1,6 @@
 {
   "name": "react-native-code-push",
-  "version": "1000.0.0-beta",
+  "version": "5.6.0-fix",
   "description": "React Native plugin for the CodePush service",
   "main": "CodePush.js",
   "typings": "typings/react-native-code-push.d.ts",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/react-native-code-push"
+    "url": "https://github.com/kida7/react-native-code-push.git"
   },
   "dependencies": {
     "code-push": "2.0.6",
